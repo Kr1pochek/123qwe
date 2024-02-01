@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    
+
 }
 
 .back {
@@ -11,13 +11,13 @@
 
 }
 
-.backimg{
+.backimg {
     max-width: 1920px;
 }
 
-.contik{
+.contik {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
 }
 
 .logo {
@@ -29,7 +29,7 @@
 }
 
 .textik {
-    color:#FFFFFF;
+    color: #FFFFFF;
     width: 460px;
     height: 26px;
     margin: -30px;
@@ -39,24 +39,26 @@
 
 
 }
-.knopka{
+
+.knopka {
     display: flex;
-    background-color:#5BBFC8;
+    background-color: #5BBFC8;
     width: 214px;
-height: 55px;
-border-radius: 5px;
-margin-top: -50px;
-margin-left: 500px;
-text-align: center; 
-color:black;
+    height: 55px;
+    border-radius: 5px;
+    margin-top: -50px;
+    margin-left: 500px;
+    text-align: center;
+    color: black;
 }
 
-.text{
-    
+.text {
+
     margin-top: 18px;
     margin-left: 48px;
 
 }
+
 .textcent {
     color: #FFFFFF;
     font-family: Manrope;
@@ -81,38 +83,40 @@ color:black;
 
 
 }
-.button{
-display: flex;
-width: 250px;
-height: 60px;
-background-color: #FFD200;
-font-family: Manrope;
-border-radius: 5%;
+
+.button {
+    display: flex;
+    width: 250px;
+    height: 60px;
+    background-color: #FFD200;
+    font-family: Manrope;
+    border-radius: 5%;
 
 }
-span{
+
+span {
     margin-left: 15px;
 }
 
-.textknopka{
- margin-left: 19px;
- margin-top:22px ;
+.textknopka {
+    margin-left: 19px;
+    margin-top: 22px;
 
 }
 
-.kartinkakonopka{
-margin-left: 180px;
-margin-top: -25px;
+.kartinkakonopka {
+    margin-left: 180px;
+    margin-top: -25px;
 }
 
-.bottom{
+.bottom {
     font-family: Manrope;
     display: flex;
-    
+
 
 }
 
-.kart1{
+.kart1 {
     background-color: lightgray;
     margin-left: px;
     margin-top: 85px;
@@ -122,14 +126,14 @@ margin-top: -25px;
 
 }
 
-.kart1t{
-   font-size: 30px;
-   width: 346px;
-   height: 156.04px;
+.kart1t {
+    font-size: 30px;
+    width: 346px;
+    height: 156.04px;
 
 }
 
-.kart2{
+.kart2 {
     background-color: #FFD300;
     margin-left: 11px;
     margin-top: 85px;
@@ -138,8 +142,8 @@ margin-top: -25px;
     border-radius: 10px;
 }
 
-.kart3{
-    background-color:   #4B5257;
+.kart3 {
+    background-color: #4B5257;
     margin-left: 11px;
     margin-top: 85px;
     width: 204.63px;
@@ -147,7 +151,7 @@ margin-top: -25px;
     border-radius: 10px;
 }
 
-.kart4{
+.kart4 {
     background-color: #5BBFC8;
     margin-left: 11px;
     margin-top: 85px;
@@ -156,49 +160,49 @@ margin-top: -25px;
     border-radius: 10px;
 }
 
-hr{
+hr {
     width: 88px;
     height: 5.36px;
     border-radius: 5px;
     background-color: black;
 }
 
-.sedan{
+.sedan {
     margin-top: 144px;
     margin-left: 75px;
 }
 
-.jeep{
+.jeep {
     margin-top: 109px;
     margin-left: 75px;
 }
 
-.truck{
+.truck {
     margin-top: 114px;
-    margin-left:75px;
+    margin-left: 75px;
 }
 
-.avto2{
-    font-size:20px ;
+.avto2 {
+    font-size: 20px;
     line-height: 25px;
 
 }
 
-.kart3t{
+.kart3t {
     font-size: 19px;
     line-height: 25px;
 }
 
-.kart4t{
+.kart4t {
     font-size: 19px;
     line-height: 25px;
 }
 
-.kart1tt{
+.kart1tt {
     font-size: 16px;
 }
 
-.rubel1{
+.rubel1 {
     margin-top: 16px;
     margin-left: 14px;
     width: 78.65px;
@@ -208,7 +212,7 @@ hr{
 
 }
 
-.rubel2{
+.rubel2 {
     margin-top: 13px;
     margin-left: 14px;
     width: 78.65px;
@@ -219,7 +223,7 @@ hr{
 }
 
 
-.rubel3{
+.rubel3 {
     margin-left: 16px;
     margin-top: 16px;
     width: 78.65px;
@@ -228,19 +232,19 @@ hr{
     border-radius: 5px;
 }
 
-.urlic{
+.urlic {
     width: 882px;
     margin-left: 300px;
     margin-top: 50px;
     font-size: 45px;
 }
 
-  
+
 .akcia {
     border-radius: 5px;
     margin-left: 430px;
     display: inline-block;
-    white-space: nowrap; 
+    white-space: nowrap;
 }
 
 .slovo {
@@ -251,11 +255,11 @@ hr{
     margin-top: -50px;
     margin-left: 300px;
     text-align: center;
-    
+
 }
 
 
-.textn{
+.textn {
     font-size: 22px;
     width: 422px;
     height: 38px;
@@ -264,7 +268,7 @@ hr{
 .photo {
     width: 979px;
     height: 569px;
-    
+
 }
 
 .photo img {
@@ -274,24 +278,24 @@ hr{
 .hr1 {
     width: 28px;
     height: 5px;
-    transform: rotate(90deg); 
+    transform: rotate(90deg);
     margin-left: -20px;
     margin-top: 20px;
 }
 
-.blockt{
+.blockt {
     width: 493px;
     height: 180px;
     margin-top: -440px;
     margin-left: 670px;
 }
 
-.nomer{
+.nomer {
     margin-left: 700px;
     margin-top: 50px;
     display: inline-block;
     white-space: nowrap;
-    
+
 }
 
 .telefon {
@@ -308,10 +312,10 @@ hr{
 }
 
 .cifra {
-    color: rgb(0, 0, 0); 
+    color: rgb(0, 0, 0);
 }
 
-.zayavka{
+.zayavka {
     width: 250px;
     height: 66px;
     background-color: #FFD300;
@@ -327,31 +331,31 @@ hr{
 
 }
 
-.back2{
-    width:1928px ;
+.back2 {
+    width: 1928px;
     height: 1003px;
     margin-left: -450px;
 
 
 }
 
-.textback{
+.textback {
     margin-top: -1000px;
     margin-left: 769px;
 }
 
-.textback1{
+.textback1 {
     margin-top: -900px;
     margin-left: 908px;
 }
 
-.textback0{
+.textback0 {
     margin-top: -900px;
     text-align: 45px;
     font-size: 45px;
 }
 
-.koleso{
+.koleso {
     width: 333.31px;
     height: 394px;
     margin-left: 530px;
@@ -364,129 +368,130 @@ hr{
     height: 2px;
     position: relative;
     transform: rotate(220deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -302px;
     margin-left: 400px;
 }
 
-.curve1{
+.curve1 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(180deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -64px;
     margin-left: 227px;
 }
 
-.curve2{
+.curve2 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(180deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: 126px;
     margin-left: 236px;
 }
-.curve3{
-width: 200px;
+
+.curve3 {
+    width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(180deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: 112px;
     margin-left: 236px;
 }
 
-.curve4{
+.curve4 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(180deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: 130px;
     margin-left: 236px;
 }
 
-.curve5{
+.curve5 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(320deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -68px;
     margin-left: 416px;
 }
 
-.curve6{
+.curve6 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(40deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -px;
     margin-left: 759px;
 }
 
-.curve7{
+.curve7 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(360deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: 60px;
     margin-left: 933px;
 }
 
-.curve8{
+.curve8 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(360deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -120px;
     margin-left: 933px;
 }
 
-.curve9{
+.curve9 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(360deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -100px;
     margin-left: 933px;
 }
 
-.curve10{
+.curve10 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(360deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: -160px;
     margin-left: 933px;
 }
 
-.curve11{
+.curve11 {
     width: 200px;
     height: 2px;
     position: relative;
     transform: rotate(140deg);
-    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px); 
+    background: repeating-linear-gradient(90deg, #000, #000 5px, transparent 5px, transparent 10px);
     margin-top: 64px;
     margin-left: 752px;
 }
 
 
-.curve1Block{
-    
+.curve1Block {
+
     font-size: 20px;
 }
 
 
-.curve1t{
-    
+.curve1t {
+
     white-space: nowrap;
     line-height: 23px;
     font-size: 20px;
@@ -503,7 +508,7 @@ width: 200px;
     margin-left: 243px;
 }
 
-.curve3t{
+.curve3t {
     display: inline-block;
     width: 256px;
     height: 24px;
@@ -513,8 +518,8 @@ width: 200px;
     margin-left: 240px;
 }
 
-.curve4t{
-    
+.curve4t {
+
     width: 256px;
     height: 24px;
     line-height: 23px;
@@ -523,25 +528,27 @@ width: 200px;
     margin-left: 240px;
 }
 
-.curve5t{
+.curve5t {
     width: 256px;
     height: 24px;
     line-height: 23px;
     font-size: 20px;
-    margin-top:-400px;
-    margin-left: 970px;;
+    margin-top: -400px;
+    margin-left: 970px;
+    ;
 }
 
-.curve6t{
+.curve6t {
     width: 256px;
     height: 24px;
     line-height: 23px;
     font-size: 20px;
     margin-top: 145px;
-    margin-left: 970px;;
+    margin-left: 970px;
+    ;
 }
 
-.curve7t{
+.curve7t {
     width: 256px;
     height: 24px;
     line-height: 23px;
@@ -550,16 +557,17 @@ width: 200px;
     margin-left: 970px;
 }
 
-.curve8t{
+.curve8t {
     width: 256px;
     height: 24px;
     line-height: 23px;
     font-size: 20px;
     margin-top: 98px;
-    margin-left: 970px;;
+    margin-left: 970px;
+    ;
 }
 
-.photo24{
+.photo24 {
     width: 2190px;
     height: 483px;
     margin-left: -430px;
@@ -567,27 +575,27 @@ width: 200px;
 
 }
 
-.scren2{
+.scren2 {
     width: 941px;
     height: 521px;
     margin-top: 200px;
 }
 
-.map{
+.map {
     max-width: 100%;
     margin-left: -430px;
 }
 
 
 
-.cena{
+.cena {
     margin-left: 660px;
     margin-top: 3900px;
     font-size: 45px;
     display: inline-block;
 }
 
-.cena1{
+.cena1 {
     margin-left: 738px;
     margin-top: -6px;
     font-size: 45px;
@@ -669,120 +677,121 @@ width: 200px;
     margin-top: 7px;
 } */
 
-.pricep{
+.pricep {
     margin-left: 500px;
     margin-top: 3900px;
 }
 
-.otziv{
+.otziv {
     font-size: 45px;
     margin-top: 93px;
     margin-left: 600px;
 }
 
-.video{
+.video {
     margin-left: 400px;
 }
 
-.triang{
+.triang {
     margin-top: -140px;
     margin-left: 646px;
 }
 
-.krug{
+.krug {
     margin-top: -66px;
     margin-left: 626px;
 }
 
-.video1{
+.video1 {
     margin-left: 950px;
     margin-top: -167px;
 }
 
-.triang1{
-    
+.triang1 {
+
     margin-top: -140px;
     margin-left: 1194px;
 }
 
-.krug1{
-    
+.krug1 {
+
     margin-top: -49px;
     margin-left: 1173px;
 }
 
-.video2{
-margin-left: 400px;
-margin-top: 120px;
+.video2 {
+    margin-left: 400px;
+    margin-top: 120px;
 }
 
-.triang2{
-margin-left: 649px;
-margin-top: -150px;
+.triang2 {
+    margin-left: 649px;
+    margin-top: -150px;
 }
 
-.krug2{
-margin-top: -48px;
-margin-left: 628px;
+.krug2 {
+    margin-top: -48px;
+    margin-left: 628px;
 }
 
-.video3{
+.video3 {
     margin-top: -153px;
     margin-left: 950px;
 }
 
-.triang3{
+.triang3 {
     margin-top: -150px;
     margin-left: 1200px;
 }
-.krug3{
+
+.krug3 {
     margin-top: -46px;
     margin-left: 1180px;
 }
 
-.textg{
+.textg {
     font-size: 45px;
     margin-left: 750px;
     margin-top: 150px;
 }
 
-.grid{
+.grid {
     display: grid;
-    grid-template-columns: repeat(5,0fr);
+    grid-template-columns: repeat(5, 0fr);
     grid-gap: 13px 11px;
     margin-left: 400px;
-    
-}
-
-.img1{
-width: 202px;
-height: 175px;
-background-color: lightgray;
-border-radius: 10px;
 
 }
 
-.niz{
+.img1 {
+    width: 202px;
+    height: 175px;
+    background-color: lightgray;
+    border-radius: 10px;
+
+}
+
+.niz {
     position: absolute;
     margin-left: 569px;
     margin-top: -150px;
 
 }
 
-.vectoria{
-margin-left: px;
-margin-top: 180px;
+.vectoria {
+    margin-left: px;
+    margin-top: 180px;
 
 }
 
-.vnizu{
+.vnizu {
     width: 1920px;
     height: 273px;
     max-width: 100%;
-  height: auto;
+    height: auto;
 }
 
-.logof{
+.logof {
     margin-top: -210px;
     margin-left: 430px;
 
@@ -792,15 +801,15 @@ margin-top: 180px;
     margin-right: 33px;
 }
 
-.tbot{
-    
+.tbot {
+
     font-size: 16px;
     color: aliceblue;
     margin-top: -30px;
     margin-left: 700px;
 }
 
-.callp{
+.callp {
     color: goldenrod;
     margin-top: -40px;
     margin-left: 1290px;
@@ -814,7 +823,7 @@ margin-top: 180px;
     font-size: 14px;
     width: 293px;
     height: 47px;
-    border: 1px solid goldenrod; 
+    border: 1px solid goldenrod;
     padding: 5px;
     position: relative;
     z-index: 2;
@@ -824,7 +833,7 @@ margin-top: 180px;
     border-radius: 5px;
 }
 
-.kartinki{
+.kartinki {
     margin-top: -40px;
     margin-left: 925px;
 }
@@ -832,21 +841,181 @@ margin-top: 180px;
 .palochka {
     width: 1920px;
     height: 1px;
-    margin-top: 45px; 
-    position: relative; 
-    z-index: 999; 
+    margin-top: 45px;
+    position: relative;
+    z-index: 999;
     background-color: lightgray;
-    
+
 }
 
-.shina{
+.shina {
     margin-top: 5px;
     margin-left: 960px;
     color: #FFFFFF;
 }
 
-.curva{
+.curva {
     margin-top: px;
     margin-left: px;
 }
 
+.popup{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.418);
+    z-index: 10;
+}
+.content{
+    background-color: white;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+.close{
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.bk_{
+    border-radius:5px;
+    border: 1px solid #c632cb;
+    width: 360px;
+    height: 40px;
+}
+.text1{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+.bk__{
+    border-radius:5px;
+    border: 1px solid #c632cb;
+    width: 360px;
+    height: 130px;
+    margin-top: 10px;
+
+}
+
+.slider__img{
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.slider__line{
+    display: flex;
+    transition: all 1s;
+}
+.slider{
+    width: 100px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+    
+}
+.prev{
+    position: absolute;
+    left: 0px;
+    margin-top: -16px;
+    transform: translateY(-50%) rotate(180deg);
+    /* значение Y  для того что бы кнопка встала ровно по центру,,разворачивает кнопку на 180гр */
+
+
+    font-size: 30px;
+    color:black;
+    border-color: transparent;
+    border: 1px solid rgb(255, 0, 0);
+    line-height: 1;
+}
+.next{
+    position: absolute;
+    right: 0px;
+    margin-top: -16px;
+    transform: translateY(-50%) ;
+    /* значение Y  для того что бы кнопка встала ровно по центру */
+
+
+    font-size: 30px;
+    color:black;
+    border-color: transparent;
+    border: 1px solid rgb(255, 0, 0);
+    line-height: 1;
+}
+.next:hover, .prev:hover {
+    cursor: pointer;   /* меняется курсор */
+    background-color: black;
+    color: white;
+}
+
+
+
+.burger-menu{
+    
+    position: relative;   
+    z-index: 11;
+}
+.burger-icon, .close-icon{
+    position: absolute;
+    margin-top: 52px;
+    margin-left: 645px;
+    font-size: 30px;
+    cursor: pointer;
+    color: #d69c9cfb;
+}
+.menu{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100%;
+    flex-direction: column;
+    background-color: #f8f8f8;
+    padding: 15px;
+    border: 1px solid #ddd;
+    transition: right 0.3s ease;
+}
+.menu a{
+    text-decoration: none;
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.content{
+    padding: 20px;
+}
+
+.burger-menu {
+    display: none;
+}
+@media(max-width:768px){
+    .burger-icon{
+        display: block;
+    }
+    .burger-menu {
+        display: block;
+    }
+    .menu{
+        display:flex ;
+
+    }
+    .close-icon{
+        display: block;
+
+    }
+    
+    #text{
+        display: none;
+    }
+}

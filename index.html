@@ -5,11 +5,35 @@
   <meta c++harset="UTF-8">
   <meta name="viewport" content="width=, initial-scale=1.0">
   <link rel="stylesheet" href="./index.css">
-  <link rel="stylesheet" href="./adaptive.css">  
+  <link rel="stylesheet" href="./adaptive.css">
   <title>Document</title>
 </head>
 
 <body>
+  <div class="burger-menu">
+    <div class="burger-icon" id="burger-icon">&#9776;</div>
+    <div class="menu" id="menu">
+        <div class="close-icon" id="close-icon">&times;</div>
+        <a href="#">Главная</a>
+        <a href="#">О нас</a>
+        <a href="#">Контакты</a>
+    </div>
+</div>
+  
+    <div class="popup" id="popup">
+        <div class="content">
+            <div class="bk_" id="bk_">
+                <h2 class="text1" >
+                    email
+                </h2>
+            </div>
+            <div class="bk__" id="bk_">
+                <p class="text2">
+                    text
+                </p>
+            </div>
+        </div>
+    </div>
 
   <header class="contik">
     <div class="back">
@@ -18,11 +42,11 @@
         <img src="./Logo (1).png" alt="" class="img123">
 
         <div class="textik">
-          <span>Услуги </span>
-          <span>Преимущества</span>
-          <span>Работы</span>
-          <span>Цены</span>
-          <span>8 (800) 555-13-26</span>
+          <span  id="text">Услуги </span>
+          <span id="text">Преимущества</span>
+          <span id="text">Работы</span>
+          <span id="text">Цены</span>
+          <span id="text">8 (800) 555-13-26</span>
           <div class="knopka">
             <p class="text">Заказать звонок</p>
           </div>
@@ -116,36 +140,36 @@
           </div>
         </div>
         <div class="curva">
-        <div class="koleso">
-          <img src="./pic (2).png" alt="">
+          <div class="koleso">
+            <img src="./pic (2).png" alt="">
+          </div>
+          <div class="curve"></div>
+          <div class="curve1"></div>
+          <div class="curve2"></div>
+          <div class="curve3"></div>
+          <div class="curve4"></div>
+          <div class="curve5"></div>
+          <div class="curve6"></div>
+          <div class="curve7"></div>
+          <div class="curve8"></div>
+          <div class="curve9"></div>
+          <div class="curve10"></div>
+          <div class="curve11"></div>
+          <!-- <p class="curve1t">Онлайн запись</p> -->
+          <p class="curve2t">Бесконтактное обслуживание</p>
+          <p class="curve3t">Сертифицированное оборудование и мастера</p>
+          <p class="curve4t">Гарантия на все виды работ 365 дней</p>
+          <p class="curve5t">Все типы оплат</p>
+          <p class="curve6t">Без очередей</p>
+          <p class="curve7t">В удобном месте</p>
+          <p class="curve8t">В удобном месте</p>
+          <div class="photo24">
+            <img src="./24hours.png" alt="">
+          </div>
+          <div class="scren2">
+            <img src="./2 screen.png" alt="">
+          </div>
         </div>
-        <div class="curve"></div>
-        <div class="curve1"></div>
-        <div class="curve2"></div>
-        <div class="curve3"></div>
-        <div class="curve4"></div>
-        <div class="curve5"></div>
-        <div class="curve6"></div>
-        <div class="curve7"></div>
-        <div class="curve8"></div>
-        <div class="curve9"></div>
-        <div class="curve10"></div>
-        <div class="curve11"></div>
-        <!-- <p class="curve1t">Онлайн запись</p> -->
-        <p class="curve2t">Бесконтактное обслуживание</p>
-        <p class="curve3t">Сертифицированное оборудование и мастера</p>
-        <p class="curve4t">Гарантия на все виды работ 365 дней</p>
-        <p class="curve5t">Все типы оплат</p>
-        <p class="curve6t">Без очередей</p>
-        <p class="curve7t">В удобном месте</p>
-        <p class="curve8t">В удобном месте</p>
-        <div class="photo24">
-          <img src="./24hours.png" alt="">
-        </div>
-        <div class="scren2">
-          <img src="./2 screen.png" alt="">
-        </div>
-      </div>
 
         <div class="map">
           <img class="map1" src="./map.png" alt="">
@@ -251,7 +275,7 @@
   <div class="textg">
     <p>НАШИ ПАРТНЕРЫ</p>
   </div>
-  <div class="grid">
+  <!-- <div class="grid">
     <img class="img1" src="./image 5.png" alt="">
     <img class="img1" src="./image 7.png" alt="">
     <img class="img1" src="./image 15.png" alt="">
@@ -262,7 +286,7 @@
     <img class="img1" src="./image 13.png" alt="">
     <img class="img1" src="./image 7.png" alt="">
     <img class="img1" src="./image 5.png" alt="">
-  </div>
+  </div> -->
   <footer class="vnizu">
     <div class="niz">
       <img src="./Vector.png" alt="">
@@ -294,9 +318,19 @@
     </div>
   </footer>
   </header>
-  <div>
+  <section class="slider">
+    <div class="slider__line">
+        <img class="slider__img" src="./image 5.png" alt="">
+        <img class="slider__img" src="./image 7.png" alt="">
+        <img class="slider__img" src="./image 15.png" alt="">
+        <img class="slider__img" src="./image 11.png" alt="">
+        <img class="slider__img" src="./image 13.png" alt="">
+    </div>
+    <button class="prev">&#10148;</button>
+    <button class="next">&#10148;</button>
+</section>
 
-  </div>
+  <script src="./main.js"></script>
 </body>
 
 </html>

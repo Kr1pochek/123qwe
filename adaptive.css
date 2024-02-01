@@ -58,14 +58,14 @@
         height: 287px;
         border-radius: 10px;
     }
-    
+
     .blockt {
         width: 493px;
         height: 180px;
         margin-top: -440px;
         margin-left: 570px;
     }
-    
+
     .photo {
         width: 898px;
         height: 473px;
@@ -115,7 +115,7 @@
         margin-top: -250px;
         margin-left: 970px;
     }
-    
+
     .curva {
         display: none;
     }
@@ -124,10 +124,12 @@
         width: 880px;
         margin-left: 0px;
     }
-    .map1{
-        max-width:880px;
-        
+
+    .map1 {
+        max-width: 880px;
+
     }
+
     .pricep {
         margin-top: 1917px;
         margin-left: 0px;
@@ -142,22 +144,27 @@
     .video {
         margin-left: 22px;
     }
+
     .krug {
         margin-top: -66px;
         margin-left: 259px;
     }
+
     .triang {
         margin-top: -140px;
         margin-left: 280px;
     }
+
     .video1 {
         margin-left: 549px;
         margin-top: -167px;
     }
+
     .krug1 {
         margin-top: -49px;
         margin-left: 772px;
     }
+
     .triang1 {
         margin-top: -140px;
         margin-left: 794px;
@@ -167,11 +174,13 @@
         margin-left: 22px;
         margin-top: 120px;
     }
+
     .krug2 {
 
         margin-top: -48px;
         margin-left: 251px;
     }
+
     .triang2 {
         margin-left: 273px;
         margin-top: -150px;
@@ -181,32 +190,43 @@
         margin-top: -153px;
         margin-left: 548px;
     }
+
     .krug3 {
         margin-top: -46px;
         margin-left: 781px;
     }
+
     .triang3 {
         margin-top: -150px;
         margin-left: 802px;
     }
+
     span {
         margin-left: -136px;
     }
-    
+
     .tbot span {
         margin-right: 120px;
     }
+
     .tbot {
         font-size: 16px;
         color: aliceblue;
         margin-top: -30px;
         margin-left: 830px;
     }
+
     .kartinki {
         margin-top: -40px;
         margin-left: 688px;
     }
+
     .map1 {
         max-width: 880px;
     }
 }
+/* @media screen and (max-width: 786px) {
+    #text{
+        display: none;
+    }
+} */
